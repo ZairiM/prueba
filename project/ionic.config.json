@@ -1,5 +1,7 @@
 {
-  "name": "ProyectoApps",
-  "integrations": {},
+  "name": "myApp",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
